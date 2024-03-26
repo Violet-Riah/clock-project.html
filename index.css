@@ -19,7 +19,8 @@
     text-align: center;
     border: 3px solid;
     border-radius: 25px;
-    background-color: rgb(188, 153, 164);
+    background-image: url(images/9a1f11839c9f9e902f09e8259805319a.gif);
+    
 }
 .pouseBtn{
     width: 85px;
@@ -33,7 +34,9 @@
 
 }
 .box{
-    color: rgb(129, 20, 42);
+    color: rgb(247, 176, 190);
     font-size: xx-large;
 
 }
+
+
